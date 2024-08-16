@@ -1,18 +1,18 @@
 <template>
-    <div class="about">
-      <h1>About Us</h1>
-      <p>This is the About page.</p>
+    <div class="contact">
+      <h1>Contact Us</h1>
+      <p>This is the Contact page.</p>
     </div>
   </template>
   
   <script>
   export default {
-    name: 'AboutView'
+    name: 'ContactView'
   };
   </script>
   
   <style scoped>
-  .about {
+  .contact {
     padding: 20px;
   }
   </style>
